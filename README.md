@@ -1,2 +1,4 @@
 # hello-world
-Lerning how to create repositories
+Learning how to start
+
+Lalallalalla
